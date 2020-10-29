@@ -175,8 +175,84 @@ An approximation of the curvature of the mesh per vertex. L**ighter values indic
 
 A random value for each connected component (island) of the mesh. It is useful to add variations to meshes composed of separated units like tree leaves, wood planks, or curves of multiple splines.
 
+---
 
+# Procedural Textures included in Blender
 
+## Noise Textures
+* based on a Perlin Noise
+* Organic pattern that look random
+* Distorsion warps the texture
+* Rouhghness will function only if there is a high level of detail
+* **Used for give "randomness" to apattern**
+
+## Voronoi
+* Partition a surface into random cells and groups the space by the closest points 
+* F1 looks more organic
+* Distance to Edge allows to isolate the edges
+* **Used to make granural surfaces**
+  
+## Musgrave
+* Based on Perlin Noise but with more parameters
+* **Used to make Enviroments and terrains**
+
+## White Noise
+* Returns a different random value for every possiblle input
+* Totally random map
+* **Used to give a random value to a Seed**
+
+---
+
+# Shape Control (important)
+
+## Free Form Shapes
+
+* Manipulate shapes is all about manipulate gradients that are between the values 0 and 1
+* **First of all you have to _Separate XYZ_**
+* **Greater Than is used to create straight lines**
+* ![image](Images/StraightLine1.png)
+* **To change the angle _Subtract Y to X_**
+* ![image](Images/StraightDirection2.png)
+* **To manipulate the obtained straight edge, add _Math Node_**
+* ![image](Images/ManipulateStraight3.png)
+* **Add an _RGB Curve_ to change the straight line into a shape**
+* ![image](Images/GiveaShape4.png)
+* **Since the RGB NODE goes only from 0 to 1, the changes are limited, the best way to have more freedom is to add a _Multiply Add_ with both inputs 0.5 on the Y and a _Map Range_ with values of -1 to to the RGB Color**
+* ![image](Images/AdjustShape5.png)
+* If switch the Multiply add with Absolute the shape will be mirrored
+* ![image](Images/mirror6.png)
+---
+## Circular Shapes
+*  In order to create circular shapes is using _Polar Coordinates_
+*  Normal coordinates gives informations on one point to the axis es: x=1 , y=1
+*  _Polar Coordinates_ instead are based from the distance to the origin and the angle of the direction
+*  To get these coordinates: _Separate XYZ_ and use _Math Architant 2_ than Remap from 0 to 1 Using the _Map Range Node_ typing in _-pie and pie_ in From Min From Max.
+*  ![image](Images/Radious1.png)
+*  The radious is simply the lenght of the coordinate vector that can be simply get with _Vector Math_ Node with LENGHT
+*  ![image](Images/Radious2.png)
+*  Since the radious have to be indipendent from the Z axis, we need to isolate the Z with _Combine XYZ_ Node and connect from _Separate XYZ Node_ X and Y coordinates into _Combine XYZ_ Node
+*  ![image](Images/Radious3.png)
+*  Now We are oprating only on a plane
+*  Manipulare the angle with _RGB Curve_ Node and _Subtrat Node_ from the radious
+*  ![image](Images/Radious4.png)
+*  If you want the shape to be closed you have to be sure that the starting point of the rgb curve is the same of the ending point
+*  To mirror and ceate a free form shape we need to: 
+   *  _Map Range_ From Min = 0 , Result to Outpoint
+   *  _Arcatan 2_ to _Absolute_, Value to outpoint
+   *  ![image](Images/Radious5.png)
+
+---
+
+## Edge Fall-off
+
+* In order to have a soft edge, delete the _Greather Than_ Node and replace it with a _Subtraction_ Node
+* ![iamge](Images/Fall_off1.png)
+* To have a smoother Edge, you can _Multiply_ the value
+* ![image](Images/Fall_off2.png)
+
+---
+
+# Repetition
 
 
 

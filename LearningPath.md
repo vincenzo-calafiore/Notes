@@ -25,11 +25,7 @@
     - _Maya_
     - _Git_
 ---
-- **Simulations**
-  - Particle systems
-    - _Maya_
-    - _Blender_
-    - _Unreal Engine_
+# Extra
 - **Computer science**
 - **Math for 3D**
 ---

@@ -7,3 +7,8 @@
 * 3:00-3:45: Financial capability (GEMMA)
 * 3:45-4:30: Biodiversity (Nature Trust, Greenhouse)
 ---
+
+## TASK 30/10/20
+
+### Design Ideas
+

@@ -5,6 +5,7 @@
 (Used to keep track of yur work, and tasks)
 * Trello
 *  MaisterTask, MindMaister
+*  Planner
 *  Autodesk Shotgun
 *  **Clickup**
   

@@ -27,3 +27,6 @@ print()
 
 print(parrot[:]) # No start no end = ALL
 
+# Slice with negative numbers
+
+

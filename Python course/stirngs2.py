@@ -15,6 +15,8 @@ print(parrot[8])
 
 print()
 
+# Negative numbers
+
 print(parrot[-1])
 print(parrot[-14])
 

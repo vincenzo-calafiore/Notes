@@ -1,12 +1,13 @@
 # To do
 
-[] Redo Title
+[x] Redo Title
  *  Clear, Complete and Conscise
 
-[] Add 
+[x] Add 
 * Change tutor name
 
-[] Redo questions
+[x] Redo questions
+
 * Reformulate question in order to have a concrete answer
   
     Ex : what was the visual experience
@@ -18,14 +19,17 @@
 [] Keep Project log
 
 [] Contact to Get A room
+
 * Javen Vella
 * Martina Caruana
 * Claire Flores
 
 [] Contact to have Interview
+
 * Pierre Portelli (mention Abela Mario)
 
 [] Minimum of 50 Questionnaires
+
 * compare the ages
 * try to discover emotions of ppl
 * response of the ppl during that installation

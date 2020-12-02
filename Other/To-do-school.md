@@ -8,4 +8,10 @@
 
 * Start Literature review
 
+* Learn Touch Designer
 
+* Read Thesis Books
+
+* Project log book
+
+* 

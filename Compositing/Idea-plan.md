@@ -141,7 +141,9 @@ In 7 years of freelancing as Graphic Designer and 3D Generalist, I created my ow
 
 ## Projects
 
-**All the projects will be rendered in 8 bit PNG 1920x1080 or 1080x1080 (Some projects will be used for my Instagram account and the renders with the cropped size will used to fill the gaps between clips), 24 fps. The final montage will be done in AE (Even If not suggested, I necessarily need an AE effect to give my desired mood to the final video)**
+**All the projects will be rendered in 8 bit PNG 1920x1080 or 1080x1080 (Some projects will be used for my Instagram account and the renders with the cropped size will used to fill the gaps between clips), 24 fps. The final montage will be done in AE (Even If not suggested, I necessarily need an AE effect to give my desired mood to the final video). The final video will be rendered in 1920 x 1080 24fps.**
+
+**Since the project is still in the developing process, things might change**
 
 1. Skull Audio Visualization
    

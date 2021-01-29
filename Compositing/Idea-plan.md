@@ -6,6 +6,14 @@ Motion graphics show reel made with Blender, Fusion and After Effects.
 Something along these lines:
 https://www.youtube.com/watch?v=XyKCH_FEDUc
 
+
+
+Link + Explenation
+
+explain at least one project of the technical demo real
+
+chroma key and motion graphics
+
 ## Long Description
 
 As a general guideline, every video idea have to start with:
@@ -52,8 +60,8 @@ This means that it will need to show different kind of skills such as:
 - liquid simulations,
 
 - mixed composting techniques
-
- All my projects starts with one element: the music. The music allows the ideas to flow in a specific way, identifying the mood, the phase, the amount of compositions and cuts needed to achieve a certain rhythm. The Music that I have chosen is this:
+  
+  All my projects starts with one element: the music. The music allows the ideas to flow in a specific way, identifying the mood, the phase, the amount of compositions and cuts needed to achieve a certain rhythm. The Music that I have chosen is this:
 
 https://www.youtube.com/watch?v=Yl6t_8pldzU
 

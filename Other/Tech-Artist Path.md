@@ -38,16 +38,16 @@
 
 12. UIs
 
-
-
 ## Software
 
 1. Blender
 
-2. Fusion
+2. Unreal Engine
 
-3. Substance Designer & Painter
+3. Fusion
 
-4. Figma
+4. Substance Designer & Painter
 
-5. After Effects
+5. Figma
+
+6. After Effects

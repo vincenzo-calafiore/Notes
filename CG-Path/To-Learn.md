@@ -6,21 +6,21 @@
 
 - Rigging
 
-- Simulations
+- Mantraflow
 
 ## FUSION
 
-- Chroma
+- ~~Chroma~~
 
-- Rotoscoping
+- ~~Rotoscoping~~
 
-- Tracking
+- ~~Tracking~~
 
 - Passes
 
-- Import 3D
+- ~~3D~~
 
-- Kinect Typography
+- ~~Kinect Typography~~
 
 ## RESOLVE
 

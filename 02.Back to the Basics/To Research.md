@@ -18,6 +18,9 @@ Core principles of visual design, harmony, balance, rhythm, proportion, symmetry
 ## Alan Coopers 
  Implementation centric design
  
+## Mother Ann Lee
+ Shaker movement
+ 
 ## Book
 Universal Principles of Design
 Points of visual tension
@@ -25,4 +28,5 @@ Points of visual tension
 ## Look For
 Louis Sullivan, frank Lloyd,
 THE WHY
+
 

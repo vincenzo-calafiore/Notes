@@ -57,10 +57,42 @@ It easy to build implementation models. one solution for every problem.
 - When the UI sticks close to our mental models the use is easier
 - When the use is easier we buy download, and promote
 
-### Form should be determined by SUCCES CRITERIA - Not fucntion Not Aesthetics preferences
+### Form should be determined by SUCCES CRITERIA - Not function Not Aesthetics preferences
 Outcomes not features
 
 - What aspects of the design are critical issues
 - what design trade-offs would least ha, the design success?
 
+### Function is only a single, isolated aspect of that drives form
 
+==Every force evolves a form==
+
+- Audience needs
+- Client desires
+- Ethical obligations
+- Aesthetic inclinations
+- technology constraints (limitations)
+- Cultural presuppositions
+- Functional requirements
+- Material properties
+- Available time
+- Available budget
+- Available resources
+
+Form is a product of balance between:
+
+- UI design
+- Informational Architecture
+- Front-End 
+- Backend  data structure
+- Programming and Process
+
+DON'T USE FORMS FOLLOWS FUNCTION AS A PRESCIPTION
+
+- Focus on the relative importance of form and function.
+- Remember that every force evolves form
+
+TREAT FUNCTION AS DESCRIPTIVE GUIDES TO FOLLOW
+- Object with different functions should look different
+- Beauty can and does come from function: a gaming app shouldn't look as an enterprise system
+- Each has a different function, and that function helps to define what makes it successful.

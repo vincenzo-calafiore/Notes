@@ -1,0 +1,19 @@
+# 5 Rules
+1. Focus on context of use
+	- When they are going to use it>
+2. Simplify
+	- Every screen needs to contain ==ONLY ONE PRIMARY ACTION==
+	- Abandon the idea that numbers of screens or steps matters. It doesn't
+3. Design for thumbs
+	- Majority of people use thumbs so place important action for thumbs
+4. Design for fat fingers
+	- Controls and their associated tap targets should be
+		==MINIMUM 9 mm = 48px==
+    - Provide space between targets
+    - Icon and space can be inside the 48px
+5. Minimize the need to type
+	- typing on a phone is pain
+	- use auto complete 
+	- keep short and simple
+
+# ON SMALL SCREENS LESS IS MORE

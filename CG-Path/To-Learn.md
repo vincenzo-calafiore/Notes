@@ -30,10 +30,6 @@
 
 - Colour Grading
 
-## PHOTOSHOP
-
-- Passes
-
 ## PYTHON
 
 - Basics
@@ -45,6 +41,8 @@
 - File structure
 
 - API (depends on the work position)
+
+- Python for Blender
 
 ## UNREAL ENGINE
 

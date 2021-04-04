@@ -71,7 +71,7 @@ Outcomes not features
 - Client desires
 - Ethical obligations
 - Aesthetic inclinations
-- technology constraints (limitations)
+- Technology constraints (limitations)
 - Cultural presuppositions
 - Functional requirements
 - Material properties

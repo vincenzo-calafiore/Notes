@@ -28,5 +28,6 @@ Points of visual tension
 ## Look For
 Louis Sullivan, frank Lloyd,
 THE WHY
+Volume of Noise in design
 
 

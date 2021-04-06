@@ -38,6 +38,7 @@ Tip
 - Use ==Purposeful Anomalies== to break the pattern -> shorter or longer arrows or gaps.
 - If you do something once make it twice ad repeat forever.
 - Draw arrows to ensure you get the flow.
+- Unfinished elements like elements at the edge of a border that are catted creates visual interest, and make people scroll to see what's next.
 
 ==Good design is held together with harmony==
 
@@ -54,7 +55,35 @@ Dominance is Anomaly.
 Tips:
 - Place the primary element, direct the flow placing secondary and tertiary dominant elements.
 - Make sure that the dominant element is the one who has more contrast in the design.
+- greater size =  greater dominance
+- more contrast = more dominance -> contrast beat size every time
+- more negative space = more dominance 
+- proximity > contrast > negative space > size
+- when size wins in your design, you might have a problem in your design
+- try to combine contrast and negative space rather than relay only on size
 
 ==How big something is does not matter, it can still speak dominance if it is surrounded by negative space==
+==Dominance directs user focus==
 
-(8)
+## Alignment
+Alignment is the most important visual principle. Alignment changes works in powers -> if a design you change the alignment only, the results are huge. Alignment makes elements more valuable. Alignment is used to reduce visual paths (arrows), that makes hand-eye coordination of scanning completion much faster.
+
+Tips:
+- Align everything
+- Make rows and coulombs "arrows" that goes from top to bottom, left to right and align everything following them.
+- Just align like crazy
+- Remember that diagonals makes stuff look interesting
+- The eye can perceive small offsets
+- To make stuff look more interesting, just offset a bit the all canvas. (rule breaker)
+
+## Proximity
+Proximity is he distance between visual elements. It is used to signal relationships between elements. 
+Elements visually close are perceived as a single group, related by context of use. 
+Unrelated items are visually separated, far from each other.
+Proximity creates context.
+
+==Proximity beats colour & contrast==
+
+Tips:
+- Abstract elements in squares and change the design.
+- Add Subtle background colours when possible to relate content.

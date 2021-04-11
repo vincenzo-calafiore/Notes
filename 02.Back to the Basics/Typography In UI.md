@@ -64,3 +64,46 @@ Tips:
 - Character widths and weights of each font should be complementary to the other.
 EG: Avenir and Georgia have similar character widths, that creates visual harmony.
 - At the same time, font pairings needs to have some visual difference; otherwise there's no reason to use the second font.
+- You use two typefaces just because it is easy to the user to understand what tare the related information.
+
+## Limit line width
+When line lengths are too wide, the eye has to work more to track the text. Is good practice to use:
+- 60 characters per line on monitors.
+- 3o-40 characters on mobile.
+Using these sizes allows the userr to understand the information
+
+## Choose readability
+Text is used in many situations, so typefaces you choose have to be readable at all sizes.
+Usually users view on different devices wit different screen sizes and resolutions.
+Choose typefaces that not degrade (fall apart) at small sizes.
+
+## Choose legibility 
+Make sure all letterforms are clearly distinguishable in the typeface.
+- "l" looks like "i",
+- Combination of "r" and "n" that looks like an "m",
+- "f" and "i" that looks like "H"
+
+==Google fonts have good Kernel==
+
+## Use space between paragraphs
+Visual breacks between paragraphs give the eye a place to "rest", and speeds the speed and the understanding of the piece.
+A good use of white space between paragraphs (top, bottom, left and right) increases comprehension by 20%.
+- The Leading (space between lines) needs to be half of the character height.
+
+## Align text elements in layout using baselines
+When you have multiple text elements on a single screen, they need to share points of "common alignment".
+even text that is unrelated need to have the same base line.
+
+## Use styles to visually differentiate content
+Usually there are three styles: regular, italic and bold, if you use them effectively you don't need to use a second font.
+Usually in an interface there are these items:
+
+- Category
+- Item
+- Headline
+- Credit
+- Body
+- Subhead
+- Accent
+
+Use the three styles to fit all the needs of a page

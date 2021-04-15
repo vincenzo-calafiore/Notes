@@ -121,17 +121,11 @@
 ## Styles
 
 - Constructivism
-
 - Bauhaus 
-
 - Brutalism
-
-- Corporate cyberpunk
-
-- Sci-fi
-
 - Bladerunner
-
 - Love death robot
-
 - Deus Ex
+- Mass effect
+- Cyberpunk 2077
+- Warframe
